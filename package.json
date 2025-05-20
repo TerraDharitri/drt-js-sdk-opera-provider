@@ -1,13 +1,9 @@
 {
   "name": "@terradharitri/sdk-opera-provider",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Signing provider for dApps: Opera Crypto Wallet",
   "main": "out/index.js",
   "types": "out/index.d.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TerraDharitri/drt-js-sdk-opera-provider.git"
-  },
   "files": [
     "out/**/*"
   ],
@@ -17,11 +13,11 @@
     "test": "echo \"Error: no test specified\" && exit 0",
     "prepare": "npm run compile"
   },
-  "author": "Dharitri",
+  "author": "DharitrI",
   "license": "GPL-3.0-or-later",
   "devDependencies": {
     "@types/node": "17.0.23",
-    "esmify": "^0.1.2",
+    "esmify": "2.1.1",
     "typescript": "4.1.2"
   }
 }
