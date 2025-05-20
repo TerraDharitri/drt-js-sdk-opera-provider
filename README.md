@@ -8,14 +8,14 @@ Note that **we recommend using [dapp-core](https://github.com/TerraDharitri/drt-
 
 ## Distribution
 
-[npm](https://www.npmjs.com/package/@TerraDharitri/sdk-opera-provider)
+[npm](https://www.npmjs.com/package/@terradharitri/sdk-opera-provider)
 
 ## Installation
 
-`sdk-opera-provider` is delivered via [npm](https://www.npmjs.com/package/@TerraDharitri/sdk-opera-provider), therefore it can be installed as follows:
+`sdk-opera-provider` is delivered via [npm](https://www.npmjs.com/package/@terradharitri/sdk-opera-provider), therefore it can be installed as follows:
 
 ```
-npm install @TerraDharitri/sdk-opera-provider
+npm install @terradharitri/sdk-opera-provider
 ```
 
 ### Building the library
