@@ -24,7 +24,7 @@ export interface IOperaWalletAccount {
 
 export interface DharitriOperaProvider {
   account: IOperaWalletAccount;
-  /*static getInstance(): Elrond | undefined */
+  /*static getInstance(): Numbat | undefined */
   init(): Promise<boolean>;
   login(token?: string): Promise<string>;
   logout(): Promise<boolean>;
